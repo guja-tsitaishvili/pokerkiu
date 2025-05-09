@@ -37,3 +37,15 @@
     transform: translateY(0px);
   }
 }
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+.image {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  display: block;
+}
