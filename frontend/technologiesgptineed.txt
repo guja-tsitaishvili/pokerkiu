@@ -1,0 +1,28 @@
+WebSockets (via Socket.IO or native WebSocket API)
+
+Redux
+
+CSS Modules – Scoped CSS per component.
+
+Animations & UI Feedback
+✅ Libraries:
+Framer Motion – Smooth animations for card movements, chips, etc.
+
+React Spring – For physics-based animation.
+
+ 6. Authentication (Optional)
+JWT tokens or OAuth for player login/identity.
+
+Frontend will store tokens and send them with WebSocket or HTTP requests.
+
+
+
+. Testing
+Jest + React Testing Library for unit/component tests.
+
+
+ 8. Bundler/Tooling
+Vite (fast build tool) or Create React App (slower but simple).
+
+ESLint + Prettier for clean code.
+

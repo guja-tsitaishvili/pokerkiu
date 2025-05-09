@@ -1,0 +1,4 @@
+npx create-react-app@latest frontend --template redux
+
+in package.json add in scripts : "client":"npm start --prefix frontend"
+
